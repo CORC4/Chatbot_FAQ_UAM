@@ -1,0 +1,16 @@
+Ejecutar estos comandos en una Terminal dentro de la carpeta raíz del proyecto:
+
+#RECURSOS
+
+npm create vite@latest Chatbot_FAQ_UAM -- --template react-ts
+
+npm install lucide-react
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+#EJECUCIÓN:Al ejecutarse se indicara en la Terminal la dirección de un localhost que debe abrirse en un navegador web:
+
+npm run dev
+
+
+   
